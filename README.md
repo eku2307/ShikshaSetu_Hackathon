@@ -111,25 +111,6 @@ src/
 2. Add question counts and category information
 3. Implement quiz logic in `QuizzesPage.js`
 
-## 🚀 Deployment
-
-### Build for Production
-```bash
-npm run build
-```
-
-### Deploy to GitHub Pages
-```bash
-npm install -g gh-pages
-npm run build
-gh-pages -d build
-```
-
-### Deploy to Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `build`
-
 ## 📊 Performance Optimization
 
 - **Code Splitting**: Lazy loading for better performance
@@ -152,9 +133,6 @@ gh-pages -d build
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -162,9 +140,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open Source Community**: For the amazing tools and libraries
 - **Local Teachers**: For their valuable feedback and requirements
 
-## 📞 Support
-
-For support, email support@nabhalearning.org or create an issue on GitHub.
 
 ## 🗺️ Roadmap
 
